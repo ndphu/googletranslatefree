@@ -1,1 +1,1 @@
-module googletranslatefree
+module github.com/ndphu/googletranslatefree
